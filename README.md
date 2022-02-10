@@ -1,4 +1,14 @@
+
 ### Hi there 👋
+
+> Keep living, keep fighting 
+
+🔭 Foodish Coder | 面包与代码
+https://samdlcong.com/
+
+🌱 Web Developer 
+
+
 
 <!--
 **samnew/samnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
